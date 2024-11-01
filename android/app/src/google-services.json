@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "682694691593",
+    "project_id": "tokutana-f71b2",
+    "storage_bucket": "tokutana-f71b2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682694691593:android:e2ecd7aaf425b6273c21d8",
+        "android_client_info": {
+          "package_name": "com.example.tokutana"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY_k1gBQ9su-fb-ih4fLdBbQuekqjphpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
